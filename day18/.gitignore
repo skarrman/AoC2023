@@ -56,3 +56,4 @@ DerivedData/
 
 .build/
 .DS_Store
+.vscode/
